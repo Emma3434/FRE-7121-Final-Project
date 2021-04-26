@@ -1,5 +1,6 @@
 # FRE-7121-Final-Project: Coevolutionary Algorithms and Pairs Trading
 Author: Raymond Luo, Zhiheng Wang
+
 This is the repo for FRE 7121 Stastical Arbitrage Final Project: Coevolutionary Algorithms and Pairs Trading.
 
 ## Background
