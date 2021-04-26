@@ -14,6 +14,7 @@ the following steps:
 2. Generate a population
 3. Evolve the population with training environment (trading data) and mutation
 4. Test resulted optimized strategies with testing environment
+
 The below mentioned methods are originated from the original project, where the author provided detailed functions and possible parameters values. They first defined feature days and membership functions to predict trading day, then they briefly introduced their co-evolution algorithm. Our trading mechanics are in the same manner as the original project but our evolution algorithm are modified for better fitness judgement.
 
 ## Details
